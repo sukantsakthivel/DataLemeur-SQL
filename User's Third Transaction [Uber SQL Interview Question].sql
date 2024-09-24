@@ -18,8 +18,6 @@
 -- The dataset you are querying against may have different input & output - this is just an example!
 
 -- p.s. for more Uber SQL interview tips & problems, check out the Uber SQL Interview Guide
-
-
 WITH CT AS 
 (
   SELECT USER_ID,
